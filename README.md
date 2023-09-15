@@ -1,5 +1,7 @@
 # Square
 
+Square, Inc. operates in the payment services provider space, offering various products and services related to payments, point-of-sale (POS) systems, and financial services.
+
 ## Background
 
 Some text
