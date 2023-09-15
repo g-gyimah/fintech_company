@@ -4,6 +4,8 @@
 
 Some text
 
+Check out their website: [Square](https://squareup.com/us/en)
+
 ## Technology
 
 Some text
