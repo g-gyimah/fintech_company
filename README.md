@@ -1,5 +1,17 @@
-# fintech_company
+# Square
 
-## Here's a subheader
+## Background
 
-Did *this* work?
+Some text
+
+## Technology
+
+Some text
+
+## Strengths and Weaknesses
+
+Some text
+
+## Future Prospects
+
+Some text
